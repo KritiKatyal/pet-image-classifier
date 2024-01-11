@@ -1,0 +1,17 @@
+
+Model used: VGG
+
+Number of images: 4
+Number of dog images: 2
+Number of non-dog images: 2
+
+Percentage match: 25.0%
+Percentage correctly classified dogs: 100.0%
+Percentage correctly classified dog breeds: 0.0%
+Percentage correctly classified non-dogs: 100.0%
+
+Incorrectly classified dog breeds:
+Real: dog, Classified: weimaraner
+Real: dog, Classified: weimaraner
+
+** Total Elapsed Runtime: 0:0:8
